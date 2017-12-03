@@ -17,7 +17,7 @@ return [
         'db' => $db,
         'mailer' => [
             'useFileTransport' => true,
-        ],
+        ],//test
         'assetManager' => [            
             'basePath' => __DIR__ . '/../web/assets',
         ],
